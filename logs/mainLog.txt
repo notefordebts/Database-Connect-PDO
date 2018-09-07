@@ -1,0 +1,55 @@
+
+06-16-2018 14:54:45
+Error Message = SQLSTATE[HY000] [1044] Access denied for user 'lottoro1_lotto7'@'localhost' to database 'lottoro1_lotto'
+Error in File = /home/lottoro1/public_html/screenshot_for_blog/includes/connection.php
+in line numer4
+
+06-16-2018 14:56:17
+Error Message = SQLSTATE[HY000] [1044] Access denied for user 'lottoro1_lotto7'@'localhost' to database 'lottoro1_lotto'
+Error in File = /home/lottoro1/public_html/screenshot_for_blog/includes/connection.php
+in line numer4
+
+06-16-2018 15:34:35
+Error Message = error
+Error in File = /home/lottoro1/public_html/screenshot_for_blog/classes/Stuff.php
+in line numer18
+
+06-16-2018 15:34:47
+Error Message = error
+Error in File = /home/lottoro1/public_html/screenshot_for_blog/classes/Stuff.php
+in line numer18
+
+06-16-2018 15:41:58
+Error Message = hey
+Error in File = /home/lottoro1/public_html/screenshot_for_blog/classes/Stuff.php
+in line numer19
+
+06-16-2018 15:43:43
+Error Message = 
+Error in File = /home/lottoro1/public_html/screenshot_for_blog/classes/Stuff.php
+in line numer19
+
+06-16-2018 15:45:15
+Error Message = Exception
+Error in File = /home/lottoro1/public_html/screenshot_for_blog/classes/Stuff.php
+in line numer19
+
+06-16-2018 15:46:47
+Error Message = 
+Error in File = /home/lottoro1/public_html/screenshot_for_blog/classes/Stuff.php
+in line numer19
+
+06-16-2018 15:47:51
+Error Message = 
+Error in File = /home/lottoro1/public_html/screenshot_for_blog/classes/Stuff.php
+in line numer19
+
+06-16-2018 21:32:44
+Error Message = SQLSTATE[HY000] [1044] Access denied for user 'lottoro1_lotto7'@'localhost' to database 'DATABASE_NAM'
+Error in File = /home/lottoro1/public_html/screenshot_for_blog/classes/Database.php
+in line numer17
+
+06-17-2018 18:33:05
+Error Message = SQLSTATE[HY000] [1044] Access denied for user 'lottoro1_lotto7'@'localhost' to database 'DATABASE_NAM'
+Error in File = /home/lottoro1/public_html/screenshot_for_blog/classes/Database.php
+in line numer17
